@@ -1,0 +1,41 @@
+{
+    "ok": true,
+    "list": {
+        "uuid": "939fbf65-9040-4392-ae06-5817dd84f57a",
+        "order_uuid": null,
+        "channels": [
+            {
+                "channel_url": "https://beta.m60.live/m/liveonpatrol",
+                "image_url": "https://raw.githubusercontent.com/pepguy/m60cool/main/LOPpic.png",
+                "title": "Visit the Live On Patrol Channel"
+            },
+			{
+                "channel_url": "https://beta.m60.live/m/kitchennightmares",
+                "image_url": "https://raw.githubusercontent.com/pepguy/m60cool/main/kitchen-nightmares.png",
+                "title": "Visit the Kitchen Nightmares Channel"
+            },
+			{
+                "channel_url": "https://beta.m60.live/m/supermarketsweep",
+                "image_url": "https://raw.githubusercontent.com/pepguy/m60cool/main/sweep.png",
+                "title": "Visit the Supermarket Sweep Channel"
+            },
+		{
+                "channel_url": "https://beta.m60.live/m/court",
+                "image_url": "https://raw.githubusercontent.com/pepguy/m60cool/main/court.png",
+                "title": "Visit the Court Channel"
+            },
+					{
+                "channel_url": "https://beta.m60.live/m/food",
+                "image_url": "https://raw.githubusercontent.com/pepguy/m60cool/main/food.png",
+                "title": "Visit the Food Channel"
+            },
+			{
+                "channel_url": "https://beta.m60.live/m/debates",
+                "image_url": "https://raw.githubusercontent.com/pepguy/m60cool/main/debate.png",
+                "title": "Visit the Debates Channel"
+            
+    
+            }
+        ]
+    }
+}
