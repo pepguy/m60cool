@@ -1,0 +1,41 @@
+{
+    "ok": true,
+    "list": {
+        "uuid": "939fbf65-9040-4392-ae06-5817dd84f57a",
+        "order_uuid": null,
+        "channels": [
+            {
+                "channel_url": "https://beta.m60.live/m/liveonpatrol",
+                "image_url": "https://cdn.discordapp.com/attachments/527710972891234306/1042483030436102275/312593301_5964940743524666_2303519156743213310_n.jpg",
+                "title": "Visit the Live On Patrol Channel"
+            },
+			{
+                "channel_url": "https://beta.m60.live/m/kitchennightmares",
+                "image_url": "https://images.fanart.tv/bigpreview/kitchen-nightmares-61ad15a8181ff.png",
+                "title": "Visit the Kitchen Nightmares Channel"
+            },
+			{
+                "channel_url": "https://beta.m60.live/m/supermarketsweep",
+                "image_url": "https://cdn1.edgedatg.com/aws/v2/abc/SupermarketSweep/showimages/3bdfda9609dd678e18f4e9c0df9481f3/1600x900-Q90_3bdfda9609dd678e18f4e9c0df9481f3.jpg",
+                "title": "Visit the Supermarket Sweep Channel"
+            },
+		{
+                "channel_url": "https://beta.m60.live/m/court",
+                "image_url": "https://media.wired.com/photos/5d6ec1090d81630008096f2a/master/pass/Business-Judges-Sentencing-Algorithms-78487962.jpg",
+                "title": "Visit the Court Channel"
+            },
+					{
+                "channel_url": "https://beta.m60.live/m/food",
+                "image_url": "https://www.clipartmax.com/png/middle/183-1837127_good-food-channel-logo.png",
+                "title": "Visit the Food Channel"
+            },
+			{
+                "channel_url": "https://beta.m60.live/m/debates",
+                "image_url": "https://static01.nyt.com/images/2019/06/25/us/25dc-trumpdebate/merlin_97969309_a1335030-2d37-414c-b283-6cf978fc9e6c-videoSixteenByNine3000.jpg",
+                "title": "Visit the Debates Channel"
+            },
+            
+       
+        ]
+    }
+}
